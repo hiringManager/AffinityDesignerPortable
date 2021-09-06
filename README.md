@@ -13,7 +13,7 @@ Copy Every folder and put it somewhere.
 ## Paste New Files
 (With new user, install, or OS. (Windows 10 to Windows 11 in my case))
 Repeat steps but paste them into the new directory, overwriting files that are there (old files overwriting the new ones that exist).  
-You should know that I also accidentally deleted 'C:\Users\...\AppData\Roaming\Affinity\Designer\1.0\preferences.dat' when my Affinity stalled on first launch. **This may or may not be relevant**, it didn't seem to affect anything and was regenerated, the next time it was launched.
+You should know that I also accidentally deleted 'C:\Users\...\AppData\Roaming\Affinity\Designer\1.0\preferences.dat' when my Affinity stalled on first launch. **This may or may not be relevant** However deleting it didn't seem to affect anything and was regenerated the next time it was launched.
 
 ## Information:
 - The username/path seemingly doesn't matter, as I went from 'oldUser' to 'newUser'.
