@@ -1,4 +1,4 @@
-# AffinityDesignerPortable
+# Affinity Designer Portable
 
 If you're lazy like I am and need to move around **Assets, Brushes, Styles, Application Preferences, Workspace Layout** etc - and find Designer's ability to actually handle this objectively poor, then here's how to deal with it in a functional (albeit hacky) way. You just have to know about the magic of Windows 'Roaming Files.'   
 This also /most likely/ applies to Affinity Photo and Affinity Publisher, but I haven't tested them.
@@ -29,3 +29,8 @@ You should know that I also accidentally deleted 'C:\Users\...\AppData\Roaming\A
 - If you wanted a fully portable install, then you could copy C:\Program Files\Affinity into X:\Users\You\"" and run the .exe from there.
 - If I run into any issues, I will update this - But I doubt it. If you run into any issues though, let me know.
 - If someone would like to test symlinking this for a multi-user environment(or organization) and letting me know and I'll add it here.
+
+## Update 10-25-21  
+
+These are the files I copied over on my recent install, and it's seemingly less problematic. Note that this is for assets, brushes, etc, and not for settings.  
+![image](https://user-images.githubusercontent.com/64992493/138753811-c05b1583-cfe0-4ca6-bba8-73c35016b359.png)  
